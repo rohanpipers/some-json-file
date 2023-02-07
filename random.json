@@ -1,1 +1,6 @@
-{}
+{
+  "something-shit": "total-random",
+  "some-object": {
+    "some-pointer" : "random 1234",
+  },
+}
